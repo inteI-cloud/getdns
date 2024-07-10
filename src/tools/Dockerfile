@@ -1,4 +1,4 @@
-FROM  ubuntu:16.04
+FROM  ubuntu:xenial-20201014
 MAINTAINER Melinda Shore <melinda.shore@nomountain.net>
 
 RUN set -ex \
